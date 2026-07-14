@@ -1,7 +1,7 @@
 node_modules/
 dist/
-.vitepress/cache/
-.vitepress/dist/
+site/.vitepress/cache/
+site/.vitepress/dist/
 .env
 .env.*
 !.env.example
