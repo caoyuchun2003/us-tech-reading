@@ -10,3 +10,5 @@ site/.vitepress/dist/
 codes.json
 *.local
 .worktrees/
+/IMG_*.JPG
+/IMG_*.jpg

@@ -63,6 +63,13 @@
   border-bottom: 1px solid #e2e7ef;
 }
 
+.vp-doc img.ustr-pay-qr {
+  max-width: min(280px, 100%);
+  height: auto;
+  border-radius: 2px;
+  border: 1px solid #d0d7e2;
+}
+
 html.ustr-locked .vp-doc {
   display: none;
 }
