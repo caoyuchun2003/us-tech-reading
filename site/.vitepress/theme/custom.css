@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;700&display=swap');
+
+:root {
+  --ustr-bg: #f5f7fa;
+  --ustr-ink: #1b3a5f;
+  --ustr-text: #142033;
+  --ustr-muted: #5a6578;
+  --vp-c-brand-1: #1b3a5f;
+  --vp-c-brand-2: #244a75;
+  --vp-c-brand-3: #16304f;
+  --vp-c-bg: var(--ustr-bg);
+  --vp-c-text-1: var(--ustr-text);
+  --vp-c-text-2: var(--ustr-muted);
+  --vp-font-family-base: 'Noto Sans SC', system-ui, sans-serif;
+}
+
+.ustr-hero h1,
+.vp-doc h1,
+.vp-doc h2 {
+  font-family: 'Noto Serif SC', 'Songti SC', serif;
+  color: var(--ustr-text);
+}
+
+.ustr-cta {
+  display: inline-block;
+  background: var(--ustr-ink);
+  color: #fff !important;
+  padding: 0.65rem 1.15rem;
+  border-radius: 2px;
+  text-decoration: none !important;
+  font-weight: 600;
+}
+
+.ustr-cta:hover {
+  background: #244a75;
+}
+
+.ustr-footer-disclaimer {
+  font-size: 0.8rem;
+  color: var(--ustr-muted);
+  border-top: 1px solid #d8dee8;
+  margin-top: 2rem;
+  padding-top: 1rem;
+}
+
+.ustr-paywall {
+  border: 1px solid #d0d7e2;
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 2px;
+}
+
+.ustr-schedule {
+  list-style: none;
+  padding: 0;
+}
+
+.ustr-schedule li {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.65rem 0;
+  border-bottom: 1px solid #e2e7ef;
+}
+
+html.ustr-locked .vp-doc {
+  display: none;
+}
