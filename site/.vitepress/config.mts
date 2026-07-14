@@ -8,8 +8,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '课纲', link: '/course/01' },
-      { text: '购买', link: '/pay' },
-      { text: '解锁', link: '/unlock' },
+      { text: '资助作者', link: '/sponsor' },
       { text: '关于', link: '/about' }
     ],
     sidebar: [

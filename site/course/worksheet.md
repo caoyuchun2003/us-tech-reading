@@ -1,7 +1,7 @@
 ---
 title: 一页纸工作表
 order: 9
-free: false
+free: true
 ---
 
 # 一页纸工作表（Apple 教学案例）

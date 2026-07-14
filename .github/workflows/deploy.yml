@@ -18,8 +18,6 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run build
-        env:
-          VITE_UNLOCK_CODE_HASHES: ${{ secrets.VITE_UNLOCK_CODE_HASHES }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site/.vitepress/dist
