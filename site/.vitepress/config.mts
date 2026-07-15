@@ -4,7 +4,7 @@ export default defineConfig({
   title: '美股科技阅读课',
   description: '给国内新手的美股科技公司阅读课',
   lang: 'zh-CN',
-  base: '/us-tech-reading/',
+  base: '/',
   themeConfig: {
     nav: [
       { text: '课纲', link: '/course/01' },
