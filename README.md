@@ -1,6 +1,6 @@
 # 美股科技阅读课
 
-给国内新手的美股科技公司阅读课。全课免费；可用赞赏码自愿 [资助作者](site/sponsor.md)。
+给国内新手的美股科技公司阅读课。全课免费开放。
 
 ## Local setup
 
@@ -13,7 +13,7 @@ npm run build    # production build → site/.vitepress/dist
 
 ## Compliance
 
-This is an educational product, not investment advice. It does not recommend buying or selling any security. Sponsorship / tips are voluntary and do not unlock exclusive content.
+This is an educational product, not investment advice. It does not recommend buying or selling any security.
 
 ## Design
 

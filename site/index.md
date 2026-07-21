@@ -28,7 +28,5 @@ title: 给国内新手的美股科技公司阅读课
 | [07 风险清单](/course/07) | |
 | [08 一页纸作业](/course/08) | |
 
-喜欢这门课？可以 [资助作者](/sponsor)（自愿，任意金额）。
-
 教育产品，非投资建议。详见 [免责声明](/disclaimer)。
 {.ustr-footer-disclaimer}

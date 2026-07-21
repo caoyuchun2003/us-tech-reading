@@ -1,10 +1,9 @@
 # Pre-launch smoke checklist
 
-Updated for sponsor (no unlock) model.
+Free courses only (no paywall / no sponsor).
 
-- [x] Home: one CTA, schedule, link to 资助作者
+- [x] Home: one CTA, schedule
 - [x] All courses readable (no paywall)
-- [x] `/sponsor` shows WeChat + Alipay QR, voluntary tip copy
-- [x] Nav has 资助作者; no 购买/解锁
-- [x] Footer disclaimer + sponsor link
-- [x] `/pay` and `/unlock` redirect copy to sponsor
+- [x] Nav has no 资助作者 / 购买 / 解锁
+- [x] Footer disclaimer only
+- [x] `/pay` and `/unlock` point to free-course notice
